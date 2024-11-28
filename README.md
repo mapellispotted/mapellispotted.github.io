@@ -1,7 +1,6 @@
 - 👋 Ciao, siamo la *redazione* di @mapellispotted
-- 👀 Siamo interessati a
-- 🌱 Siamo studenti delle superiori 
-- 💞️ I’m looking to collaborate on ...
+- 👀 Siamo interessati a ridare vita al blog e ai profili social della scuola
+- 🌱 Siamo studenti e insegnanti dell[ITCG Achille Mapelli](https://www.mapelli-monza.edu.it/) di Monza 
 - 📫 Mail: redazione@mapelli-monza.edu.it
 - ⚡ Fun fact: ...
 
