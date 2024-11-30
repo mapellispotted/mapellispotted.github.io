@@ -1,7 +1,7 @@
 - 👋 Ciao, siamo la *redazione* di @mapellispotted
 - 👀 Siamo interessati a ridare vita al blog e ai profili social della scuola
 - 🌱 Siamo studenti e insegnanti dell'[ITCG Achille Mapelli](https://www.mapelli-monza.edu.it/) di Monza 
-- 📫 Mail: redazione@mapelli-monza.edu.it
+- 📫 Mail: [redazione@mapelli-monza.edu.it](mailto:redazione@mapelli-monza.edu.it?subject=Cara%20Redazione%20ti%20scrivo...)
 - ⚡ Fun fact: ...
 
 <!---
