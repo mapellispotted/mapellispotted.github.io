@@ -22,7 +22,7 @@ comments: false
 -->
 
 <p class="mb-4">Inviaci il tuo messaggio tramite questo form: risponderemo il prima possibile!</p>
-  <form target="_blank" action="https://formsubmit.co/{{site.email}}" method="POST">
+  <form target="_blank" action="https://formsubmit.co/f18f1361501497adbc657ddff0f6f268" method="POST">
     <div class="form-group">
       <div class="form-row">
         <div class="col">
