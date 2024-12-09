@@ -37,4 +37,7 @@ comments: false
       <textarea placeholder="Il tuo messaggio *" class="form-control" name="message" rows="10" required></textarea>
     </div>
     <button type="submit" class="btn btn-lg btn-dark btn-block">Invia</button>
+    <input type="hidden" name="_subject" value="Nuovo messaggio dal form di contatto di mapellispotted.github.io!">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_autoresponse" value="Ecco il messaggio che hai lasciato su mapellispotted.github.io!">
   </form>
