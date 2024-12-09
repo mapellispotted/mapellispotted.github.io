@@ -4,7 +4,18 @@ disqus: false
 archive: false
 post_class: post-template
 ---
+<!--
+File utilizzato per utilizzare due featured images.
+Quella standard, che può essere tagliata graficamente per avere una buona resa in homepage è legata al campo page.image.
+In questo caso, potrebbe non essere bella da utilizzare nel post.
+Si è creato, quindi page.image_post che identifica l'url della risorsa da inserire nel post.
 
+Questa viene viene utilizzata nel file _includes featured-image2img.html.
+Questo file viene usato nel _layouts post2img.html.
+
+Se si devono utilizzare, quindi, due immagini, si deve utilizzare nel yaml del post per esempio:
+   image_post: assets/images/2024/12/Ginevra_de_Benci.jpg
+-->
 <div class="entry-header">
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>
@@ -36,7 +47,7 @@ post_class: post-template
 {% endif %}
 
 <!-- Featured Image -->
-{% include featured-image.html %}
+{% include featured-image2img.html %}
 
 <!-- Content -->
 {% include article.html %}

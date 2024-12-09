@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Stile e creatività per affrontare Natale"
-author: La Bionda
-categories: [ Lifestyle ]
+title:  "Stile e creatività per affrontare il Natale"
+author: labionda
+categories: [Lifestyle]
 tags: [Società]
-beforetoc: "Il Natale è alle porte, e con esso l’atmosfera magica delle feste."
+beforetoc: "Il Natale è alle porte e con esso l’atmosfera magica delle feste."
 image: assets/images/2024/12/joanna-kosinska-LOCPyTogWHU-unsplash.jpg
 toc: true
 ---
@@ -12,13 +12,12 @@ Ecco una guida completa per affrontare il periodo natalizio con stile e creativi
 
 ## Tendenze moda per le feste
 
-- **Materiali e texture**: pelle e vinile, pellicce finte per sostenere l’ambiente, trasparenze e lingerie a vista proposti da Dolce&amp;Gabbana© e Saint Laurent©.
+- **Materiali e texture**: pelle e vinile, pellicce finte per sostenere l’ambiente, trasparenze e lingerie a vista proposti da Dolce&amp;Gabbana<sup>©</sup> e Saint Laurent<sup>©</sup>.
 - **Stili e silhouette**: oversize, gonne a ruota e pantaloni a vita bassa daranno un tocco retrò al vostro look.
 - **Dettagli e stampe**: frange e piume, motivi geometrici, animalier (maculato, zebrato)
-- **Accessori**: Scarpe Mary Jane e Slingbacks come vediamo nei marchi Chanel©, Diesel© e Dior©
+- **Accessori**: Scarpe Mary Jane e Slingbacks come vediamo nei marchi Chanel<sup>©</sup>, Diesel<sup>©</sup> e Dior<sup>©</sup>
 
-Questi trend offrono opzioni versatili per outfit quotidiani e look speciali per le
-festività, mantenendo un equilibrio tra innovazione e comfort.
+Questi trend offrono opzioni versatili per outfit quotidiani e look speciali per le festività, mantenendo un equilibrio tra innovazione e comfort.
 
 
 ## Make-up – trucco perfetto per le feste
@@ -42,3 +41,6 @@ Il periodo natalizio è il momento ideale per *esprimere la propria personalità
 Buone feste a tutti!
 
 La Bionda
+
+
+L'immagine utilizzata per questo articolo è stata creata da [Joanna Kosinska](https://unsplash.com/photos/red-cherries-and-white-star-decorations-LOCPyTogWHU) ed è pubblicata su [Unsplash](https://unsplash.com/)

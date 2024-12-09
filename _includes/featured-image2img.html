@@ -1,0 +1,21 @@
+<!--
+File utilizzato per utilizzare due featured images.
+Quella standard, che può essere tagliata graficamente per avere una buona resa in homepage è legata al campo page.image.
+In questo caso, potrebbe non essere bella da utilizzare nel post.
+Si è creato, quindi page.image_post che identifica l'url della risorsa da inserire nel post.
+
+Questa viene viene utilizzata nel file _includes featured-image2img.html.
+Questo file viene usato nel _layouts post2img.html.
+
+Se si devono utilizzare, quindi, due immagini, si deve utilizzare nel yaml del post per esempio:
+   image_post: assets/images/2024/12/Ginevra_de_Benci.jpg
+-->
+{% if page.image_post %}
+<div class="entry-featured-image">
+    {% if site.lazyimages == "enabled" %}
+    <img class="featured-image lazyimg {% if page.imageshadow %} image-shadow {% endif %}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image_post contains "://" %}{{ page.image_post }}{% else %}{{ site.baseurl }}/{{ page.image_post }}{% endif %}" alt="{{ page.title }}">
+    {% else %}
+    <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{% if page.image_post contains "://" %}{{ page.image_post }}{% else %}{{ site.baseurl }}/{{ page.image_post }}{% endif %}" alt="{{ page.title }}">
+    {% endif %}
+</div>
+{% endif %}
