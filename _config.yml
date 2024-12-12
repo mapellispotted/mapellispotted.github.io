@@ -21,15 +21,23 @@ authors:
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "-"
   chris:
     name: Chris
     display_name: Chris
-    avatar: 'assets/images/avatar/empty.png'
+    avatar: 'assets/images/avatar/cb.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "Sportivo, amante del tennis e grande tifoso di calcio."
+  enri:
+    name: Enri
+    display_name: Enri
+    avatar: 'assets/images/avatar/eo.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   ilgualto:
     name: Il Gualto
     display_name: Il Gualto
@@ -41,11 +49,11 @@ authors:
   labionda:
     name: La Bionda
     display_name: La Bionda
-    avatar: 'assets/images/avatar/empty.png'
+    avatar: 'assets/images/avatar/labionda.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "Mi piace leggere e disegnare, guardare film e serie-tv ma soprattutto mi piace seguire la moda. Durante il periodo natalizio cerco di visitare più mercatini di Natale possibile e aiutarvi con i regali per i vostri cari."
   simo:
     name: Simo
     display_name: Simo
@@ -53,7 +61,7 @@ authors:
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "-"
   ste:
     name: Stefano Caglio
     display_name: SC
@@ -61,7 +69,7 @@ authors:
     email: stefano.caglio@mapelli-monza.edu.it
     web: https://stefanocaglio.it
     instagram: https://instagram.com/stefanocaglio
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "-"
 
 # Plugins
 plugins:
