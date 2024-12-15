@@ -57,11 +57,11 @@ authors:
   simo:
     name: Simo
     display_name: Simo
-    avatar: 'assets/images/avatar/empty.png'
+    avatar: 'assets/images/avatar/sm.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
-    description: "-"
+    description: "Appassionato di arte rinascimentale e numismatica, adoro visitare musei e avvicinare le persone alle mie passioni!"
   ste:
     name: Stefano Caglio
     display_name: SC
@@ -69,6 +69,22 @@ authors:
     email: stefano.caglio@mapelli-monza.edu.it
     web: https://stefanocaglio.it
     instagram: https://instagram.com/stefanocaglio
+    description: "-"
+  suongminh:
+    name: Suong Minh
+    display_name: Suong Minh
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  tommy:
+    name: Tommy
+    display_name: Tommy
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
     description: "-"
 
 # Plugins
