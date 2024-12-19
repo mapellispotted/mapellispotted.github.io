@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "“Artigiano in fiera” Rho Milano "
+title:  "“Artigiano in fiera” Rho Milano: creatività, tradizione e talento dal mondo "
 author: labionda
 categories: [Lifestyle]
 tags: [Società]
