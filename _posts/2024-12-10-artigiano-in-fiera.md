@@ -29,5 +29,11 @@ Nel frattempo, chi ha visitato l'evento si porterà a casa non solo oggetti unic
            
 La Bionda
 
+![Image]({{ site.baseurl }}/assets/images/2024/12/artigiano_1-min.jpg)
 
-L'immagine utilizzata per questo articolo è disponibile sul sito ufficiale dell'[Artigiano in Fiera](https://artigianoinfiera.it/). 
+![Image]({{ site.baseurl }}/assets/images/2024/12/artigiano_2-min.jpg)
+
+![Image]({{ site.baseurl }}/assets/images/2024/12/artigiano_3-min.jpg)
+
+
+L'immagine utilizzata in intestazione per questo articolo è disponibile sul sito ufficiale dell'[Artigiano in Fiera](https://artigianoinfiera.it/). Le altre immagini sono state scattate dall'autrice.
