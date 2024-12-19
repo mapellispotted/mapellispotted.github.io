@@ -3,8 +3,8 @@ layout: post
 title:  "17 domande al preside"
 description: " "
 author: chiara
-categories: [Economia]
-tags: [Automotive]
+categories: [Scuola]
+tags: [Persone]
 image: assets/images/2024/12/aldo-melzi.jpg
 ---
 In data 11 dicembre 2024 abbiamo avuto l’opportunità di intervistare il Preside del nostro istituto: Aldo Melzi, sottoponendolo a quesiti di natura differente, abbiamo analizzato il suo ruolo scolastico, ma anche le sue passioni, passando poi ai consigli che ha riservato agli studenti ed infine, i progetti futuri a cui mira il Mapelli. 
