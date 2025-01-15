@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La K-beauty: ingradienti naturali e routine efficaci"
+title:  "La K-beauty: ingredienti naturali e routine efficaci"
 author: labionda
 categories: [Lifestyle]
 tags: [Bellezza]
