@@ -39,8 +39,8 @@ authors:
     instagram: https://instagram.com/
     description: "-"
   aleilfacinoroso:
-    name: Il Facinoroso
-    display_name: Il Facinoroso
+    name: L'Orsetto Fa(s)cinoroso
+    display_name: L'Orsetto Fa(s)cinoroso
     avatar: 'assets/images/avatar/ap.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
@@ -62,6 +62,30 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "Mi piace leggere e disegnare, guardare film e serie-tv ma soprattutto mi piace seguire la moda. Durante il periodo natalizio cerco di visitare più mercatini di Natale possibile e aiutarvi con i regali per i vostri cari."
+  luke:
+    name: Luke
+    display_name: Luke
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: ""
+  marzia:
+    name: Marzia
+    display_name: Marzia
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: ""
+  redazione:
+    name: La Redazione
+    display_name: La Redazione
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: ""
   simo:
     name: Simo
     display_name: Simo
@@ -113,7 +137,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 9
+paginate: 12
 paginate_path: /page:num/
     
 # Other
