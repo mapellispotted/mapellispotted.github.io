@@ -65,11 +65,11 @@ authors:
   luke:
     name: Luke
     display_name: Luke
-    avatar: 'assets/images/avatar/empty.png'
+    avatar: 'assets/images/avatar/luke.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
-    description: ""
+    description: "Sono sportivo: basket, MTB, downhill, windsurf, vela e sci. Mi piace stare in compagnia, sono curioso e mi sveglio sempre di buon umore. Sono un ragazzo chill."
   marzia:
     name: Marzia
     display_name: Marzia
