@@ -2,7 +2,7 @@
 layout: post
 title:  "Il coraggio di essere una donna: Lidia Poët"
 description: " "
-author: chiara
+author: marzia
 categories: [Società]
 tags: [Diritti]
 image: assets/images/2025/01/lidia-poet.jpg
