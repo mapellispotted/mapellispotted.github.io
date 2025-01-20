@@ -15,7 +15,7 @@ image_post:
     <a href="https://photos.google.com/share/AF1QipNf317Q5_ZhyQyaeYp-IMq-2PZMOJLdHWzfHzzvuCWOZcpcV3F3HEqKxbrnEwcRXg/photo/AF1QipPTw7nQ2JRKx3pQEppSMb950e_2mimznVH3q7xG?key=cXJiTGJ5WEJUWWZ0dy0wT25RT2hDcUF3U1hNaWtn"><img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{{ site.baseurl }}/assets/images/2025/01/4_SpecchioRotto.jpg" alt="Un'immagine realizzata dalla 4FTU"></a>
 </div>
 
-Per vedere tutti i lavori clicca sull'immagine qui sopra a su [questo link](https://photos.google.com/share/AF1QipNf317Q5_ZhyQyaeYp-IMq-2PZMOJLdHWzfHzzvuCWOZcpcV3F3HEqKxbrnEwcRXg/photo/AF1QipPTw7nQ2JRKx3pQEppSMb950e_2mimznVH3q7xG?key=cXJiTGJ5WEJUWWZ0dy0wT25RT2hDcUF3U1hNaWtn).
+Per vedere tutti i lavori clicca sull'immagine qui sopra o su [questo link](https://photos.google.com/share/AF1QipNf317Q5_ZhyQyaeYp-IMq-2PZMOJLdHWzfHzzvuCWOZcpcV3F3HEqKxbrnEwcRXg/photo/AF1QipPTw7nQ2JRKx3pQEppSMb950e_2mimznVH3q7xG?key=cXJiTGJ5WEJUWWZ0dy0wT25RT2hDcUF3U1hNaWtn).
 
 Queste le parole della giuria relativamente al lavoro proposto:
 
