@@ -8,7 +8,7 @@ tags: [Scuola]
 image: assets/images/2025/01/video_toma.jpg
 image_post:
 ---
-È con grande soddisfazione che annunciamo che la classe 4FTU è risultata vincitrice del primo premio nel contest *"Generazione Rispetto"* nella categoria *Testo*, indetto dall’associazione [C.A.Do.M.  Monza (Centro Aiuto Donne Maltrattate)](https://cadom.it/) e con un premio di 600€!
+Siamo contenti di poter condividere la nostra prima videointervista! Il nostro primo intervistato è il Prof. Toma.
 
 
 <div class="entry-featured-image">
