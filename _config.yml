@@ -46,6 +46,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
+  fabio:
+    name: Fabio
+    display_name: Fabio
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   ilgualto:
     name: Il Gualto
     display_name: Il Gualto
@@ -70,6 +78,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "Sono sportivo: basket, MTB, downhill, windsurf, vela e sci. Mi piace stare in compagnia, sono curioso e mi sveglio sempre di buon umore. Sono un ragazzo chill."
+  marcoianne:
+    name: Marco
+    display_name: Marco
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   marzia:
     name: Marzia
     display_name: Marzia

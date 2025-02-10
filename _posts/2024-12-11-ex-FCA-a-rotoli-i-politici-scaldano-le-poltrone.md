@@ -2,9 +2,9 @@
 layout: post
 title:  "Nel mentre l’ex FCA va a rotoli i politici scaldano le poltrone"
 description: " "
-author: ilgualto
-categories: [Economia]
-tags: [Automotive]
+author: marcoianne
+categories: [Società]
+tags: [Politica]
 image: assets/images/2024/12/Tavares.jpg
 ---
 Immaginatevi se il Senato e la Camera dei deputati fossero due lussuosi cinema. Tante poltrone, una mensola di fronte agli spettatori per poter appoggiare pop corn e bibite e al posto della squadra di governo un grande schermo bianco su cui viene proiettato il film di ciò che accade in Italia. 

@@ -4,7 +4,7 @@ title:  "Il mondo dei fumetti nelle fiere in Italia: cosa potresti vedere?"
 description: " "
 author: tommy
 categories: [Cultura]
-tags: [Società]
+tags: [Fumetti]
 image: assets/images/2024/12/comics.jpg
 ---
 I tifosi della Roma potrebbero aver visto ad inizio novembre un post su Instragram di Totti, travestito da gladiatore.
