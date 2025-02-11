@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nosferatu: un remake che rende omaggio all'originale"
-description: ""
+description: "Il Nosferatu di Robert Eggers è un vero omaggio al cinema, in particolare al capolavoro di Murnau e al lavoro di Herzog."
 author: enri
 categories: [Società]
 tags: [Film]
