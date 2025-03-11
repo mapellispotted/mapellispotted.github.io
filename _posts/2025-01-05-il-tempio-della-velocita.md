@@ -3,7 +3,7 @@ layout: post
 title:  "Il tempio della velocità: l'autodromo di Monza"
 description: " "
 author: ilgualto
-categories: [Societò]
+categories: [Società]
 tags: [Automotive]
 image: assets/images/2025/01/autodromo.jpeg
 ---
