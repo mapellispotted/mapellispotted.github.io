@@ -24,7 +24,7 @@ Pertanto, davanti ad un uomo che si presenta sul tappeto rosso con la moglie nud
 In conclusione, le domande da porsi sono due: arriveremo mai a vivere in un mondo in cui ci si “sconvolge” se una persona si presenta nuda sul red carpet, indipendentemente che essa sia di genere maschile o femminile? e quanta poca personalità deve avere un uomo che ha bisogno di mostrare una donna nuda al proprio fianco per far tornare a parlare di sé?
 
 
-Alexandra
+Marzia
 
 
 
