@@ -2,7 +2,7 @@
 layout: post
 title:  "Intervista ad Anna"
 description: " "
-author: redazine
+author: redazione
 categories: [Scuola]
 tags: [Persone]
 image: assets/images/2025/04/anna.jpg
