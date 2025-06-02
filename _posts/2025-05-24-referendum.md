@@ -3,7 +3,7 @@ layout: post
 title:  "I referendum di giugno 2025"
 description: ""
 author: tommy
-categories: [Cultura]
+categories: [Società]
 tags: [Notizie]
 image: assets/images/2025/05/referendum-2025.jpg
 ---
