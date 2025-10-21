@@ -142,7 +142,15 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
-
+  viola:
+    name: Viola
+    display_name: Viola
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+    
 # Plugins
 plugins:
   - jekyll-paginate
