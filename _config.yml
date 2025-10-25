@@ -54,6 +54,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
+  emanuele:
+    name: Emanuele
+    display_name: Emanuele
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   fabio:
     name: Fabio
     display_name: Fabio
@@ -78,6 +86,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "Mi piace leggere e disegnare, guardare film e serie-tv ma soprattutto mi piace seguire la moda. Durante il periodo natalizio cerco di visitare più mercatini di Natale possibile e aiutarvi con i regali per i vostri cari."
+  lorenzo:
+    name: Lorenzo
+    display_name: Lorenzo
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   luke:
     name: Luke
     display_name: Luke
@@ -110,6 +126,22 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: ""
+  sara:
+    name: Sara
+    display_name: Sara
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  silvia:
+    name: Silvia
+    display_name: Silvia
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   simo:
     name: Simo
     display_name: Simo
@@ -118,6 +150,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "Appassionato di arte rinascimentale e numismatica, adoro visitare musei e avvicinare le persone alle mie passioni!"
+  simone:
+    name: Simone
+    display_name: Simone
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   ste:
     name: Stefano Caglio
     display_name: SC
