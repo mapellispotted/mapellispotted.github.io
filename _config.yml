@@ -22,6 +22,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
+  alexandra:
+    name: Alonso
+    display_name: Alonso
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   chiara:
     name: Chiara
     display_name: Chiara
@@ -38,6 +46,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "Sportivo, amante del tennis e grande tifoso di calcio."
+  christian:
+    name: Christian
+    display_name: Christian
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   enri:
     name: Enri
     display_name: Enri
@@ -89,6 +105,14 @@ authors:
   lorenzo:
     name: Lorenzo
     display_name: Lorenzo
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  luca:
+    name: Luca
+    display_name: Luca
     avatar: 'assets/images/avatar/empty.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io

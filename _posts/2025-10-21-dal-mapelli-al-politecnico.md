@@ -4,7 +4,7 @@ title:  "Dal Mapelli al Politecnico... Da una piccolo paesino ad una metropoli..
 description: ""
 author: chris
 categories: [Scuola]
-tags: [Scuola]
+tags: [Università]
 image: assets/images/2025/10/polimi.png
 ---
 Dopo cinque fantastici ed indimenticabili anni al Mapelli ho deciso di intraprendere un nuovo capitolo della mia vita iscrivendomi al corso di Ingegneria Gestionale presso il Politecnico di Milano (sede Milano Bovisa).
