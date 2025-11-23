@@ -22,7 +22,7 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
-  alexandra:
+  alonso:
     name: Alonso
     display_name: Alonso
     avatar: 'assets/images/avatar/empty.png'
@@ -49,6 +49,14 @@ authors:
   christian:
     name: Christian
     display_name: Christian
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  elis:
+    name: elisa
+    display_name: elisa
     avatar: 'assets/images/avatar/empty.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
@@ -104,7 +112,7 @@ authors:
     description: "Mi piace leggere e disegnare, guardare film e serie-tv ma soprattutto mi piace seguire la moda. Durante il periodo natalizio cerco di visitare più mercatini di Natale possibile e aiutarvi con i regali per i vostri cari."
   lorenzo:
     name: Lorenzo
-    display_name: Lorenzo
+    display_name: Jeremy
     avatar: 'assets/images/avatar/empty.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
