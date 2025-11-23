@@ -2,7 +2,7 @@
 layout: post
 title:  "Sulla scia dell’Haiku - la Giornata della Gentilezza"
 description: ""
-author: Redazione
+author: redazione
 categories: [Letteratura]
 tags: [Poesia]
 image: assets/images/2025/11/rosa.jpg
