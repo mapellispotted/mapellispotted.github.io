@@ -150,6 +150,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: ""
+  nicolo:
+    name: Nicolò
+    display_name: Nicolò
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: ""
   redazione:
     name: La Redazione
     display_name: La Redazione
