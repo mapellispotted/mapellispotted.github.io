@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intervista a Ghost Pitùr"
+title:  "Intervista a Ghost Pitùr, il writer che cancella il degrado"
 description: " "
 author: simone
 categories: [Società]
@@ -8,6 +8,7 @@ tags: [Arte]
 image: assets/images/2026/01/ghostpitur.jpg
 ---
 L’arte dei graffiti, detta anche graffitismo, nasce negli anni settanta del ‘900 nella città di New York come manifestazione sociale e culturale di pittura murale basata sull’espressione della propria creatività tramite interventi pittorici sul tessuto urbano. Nel tempo emergono importanti artisti come Banksy, Keith Haring e Jean-Michel Basquiat che si contraddistinguono per le loro notevoli creazioni. Negli anni, tuttavia, il graffitismo prende una piega diversa rispetto alle ideologie prefissate agli albori di questa forma d’arte e molto spesso viene utilizzata dagli street artist come forma di offesa o di semplice vandalismo. La normativa vigente punisce chi attua il vandalismo anche se non sempre si possono rintracciare gli artefici del danno. Soprattutto nelle città italiane, dove è importante preservare il patrimonio storico e artistico sopravvissuto a millenni di storia, o nei piccoli borghi abitati a dare ordine e pulizia sono gli stessi cittadini i quali possono o no credere nell’arte dei graffiti ma di sicuro non credono nel degrado e nell’abbandono. 
+
 A tal proposito ho avuto modo di intervistare Ghost Pitùr, cittadino bresciano che cancella il degrado e restituisce alla città natale la sua bellezza originale. Per lui l’atto della cura è una cosa semplice che può cambiare il modo in cui guardiamo le città ma anche noi stessi, ricordando che la bellezza sta nella nostra quotidianità e nel vivere insieme. 
 
 1. *Sei un cittadino bresciano?*<br>
