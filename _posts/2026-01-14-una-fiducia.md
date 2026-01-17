@@ -5,7 +5,7 @@ description: " "
 author: luke
 categories: [Società]
 tags: [Cultura]
-image: assets/images/2026/01/vittoria.jpg
+image: assets/images/2026/01/fiducia.jpg
 ---
 ## Fidarsi è bene
 
