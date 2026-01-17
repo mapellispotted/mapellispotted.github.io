@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La parola dell'anno 2025: FIDUCIA"
+title:  "La parola dell'anno 2025 per Treccani: FIDUCIA"
 description: " "
 author: luke
 categories: [Società]
