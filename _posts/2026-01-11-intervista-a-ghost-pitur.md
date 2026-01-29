@@ -2,7 +2,7 @@
 layout: post
 title:  "Intervista a Ghost Pitùr, il writer che cancella il degrado"
 description: " "
-author: simone
+author: simo
 categories: [Società]
 tags: [Arte]
 image: assets/images/2026/01/ghostpitur.jpg

@@ -2,7 +2,7 @@
 layout: post
 title:  "La basilica di Vitruvio affiora dal passato"
 description: " "
-author: simone
+author: simo
 categories: [Società]
 tags: [Arte]
 image: assets/images/2026/01/vitruvio.jpg
