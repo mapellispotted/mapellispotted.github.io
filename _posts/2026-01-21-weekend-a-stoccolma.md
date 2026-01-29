@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Una weekend a Stoccolma"
+title:  "Una weekend d'inverno a Stoccolma"
 description: " "
 author: viola
 categories: [Società]
