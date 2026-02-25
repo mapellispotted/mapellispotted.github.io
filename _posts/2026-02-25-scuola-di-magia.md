@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ilia Malinin: il peso dei sogni sul ghiaccio"
+title:  "La Scuola di Magia Online di Jack Nobile"
 description: " "
 author: alonso
 categories: [Cultura]
