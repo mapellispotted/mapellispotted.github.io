@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il concorso filosofico *ROMANAE DISPUTATIONES*"
+title:  "Jannik is our sunshine"
 description: ""
 author: chris
 categories: [Sport]
@@ -18,3 +18,6 @@ Fuori dal campo è stato come d’abitudine un ragazzo d’oro, concedendosi a f
 Prossimo appuntamento? Il Master 1000 di Montecarlo, primo torneo importante sulla terra rossa, dove, qualora si verificassero alcune combinazioni riuscirebbe a tornare numero uno al mondo superando il suo amico-rivale Carlos Alcaraz che nei due tornei sul suolo americano non ha espresso il suo miglior tennis, ma adesso con l’inizio della stagione sul rosso, sua superficie preferita, può tornare a far vedere di cosa è capace. 
 
 Oltre a Sinner, a Miami, altri azzurri hanno disputato un grandissimo torneo, in modo particolare le nostre due grandi coppie Bolelli-Vavassori che hanno vinto il torneo dedicando la vittoria al padre malato del primo e Paolini–Errani che sono state sconfitte solamente in finale. 
+
+
+L'immagine utilizzata per questo articolo è stata creata da [Hameltion](https://commons.wikimedia.org/w/index.php?curid=152409827) con licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it)
