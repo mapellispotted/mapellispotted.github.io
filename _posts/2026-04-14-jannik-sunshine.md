@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jannik is our sunshine"
+title:  "Jannik is our sunshine (...double)!"
 description: ""
 author: chris
 categories: [Sport]
