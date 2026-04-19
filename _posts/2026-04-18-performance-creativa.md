@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La performance creativa: cosa che differenzia le persone comuni dalle "grandi menti"? "
+title:  "La performance creativa: cosa che differenzia le persone comuni dalle grandi menti? "
 description: ""
 author: nicolo
 categories: [Cultura]
