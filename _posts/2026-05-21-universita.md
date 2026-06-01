@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La mia Breve esperienza universitaria"
+title:  "La mia breve esperienza universitaria"
 description: ""
 author: ilgualto
 categories: [Scuola]

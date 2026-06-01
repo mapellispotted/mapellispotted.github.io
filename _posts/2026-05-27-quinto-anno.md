@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il quinto anno di liceo"
+title:  "Il quinto anno di liceo: i miei pensieri"
 description: ""
 author: alexandra
 categories: [Scuola]
