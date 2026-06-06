@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La stanchezza che nessuno vede"
+title:  "Ci sono tanti tipi di stanchezza: anche quella che nessuno vede"
 description: " "
 author: sara
 categories: [Società]

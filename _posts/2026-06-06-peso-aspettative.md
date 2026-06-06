@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il peso delle aspettative"
+title:  "Il peso delle aspettative: viviamo davvero la nostra vita?"
 description: " "
 author: sara
 categories: [Società]
