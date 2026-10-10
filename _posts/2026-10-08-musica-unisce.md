@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "La musica che unisce il mondo"
+title:  "La musica che unisce il mondo - Perché è così importante?"
 description: ""
 author: redazione
 categories: [Cultura]
 tags: [Musica]
 image: assets/images/2026/10/musica1.png
 ---
-**Perché è così importante?**
-
 La musica è il mezzo per eccellenza per esprimersi, raccontare storie e connettersi con altre persone.
 
 Non importa quale sia il genere, l’artista o il significato. Ciò che ci accomuna è l’amore verso la musica.
