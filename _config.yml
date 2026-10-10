@@ -30,6 +30,30 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
+  aurora:
+    name: Aurora
+    display_name: Aurora
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  beatrice:
+    name: Beatrice
+    display_name: Beatrice
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  bianca:
+    name: Bianca
+    display_name: Bianca
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   chiara:
     name: Chiara
     display_name: Chiara
@@ -62,6 +86,14 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
+  emily:
+    name: Emily
+    display_name: Emily
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   enri:
     name: Enri
     display_name: Enri
@@ -70,9 +102,9 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
-  aleilfacinoroso:
-    name: L'Orsetto Fa(s)cinoroso
-    display_name: L'Orsetto Fa(s)cinoroso
+  alessio:
+    name: Alessio
+    display_name: Alessio
     avatar: 'assets/images/avatar/ap.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
@@ -94,9 +126,33 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: "-"
+  filippo:
+    name: Filippo
+    display_name: Filippo
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
   giacomo:
     name: Giacomo
     display_name: Giacomo
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  giulia:
+    name: Giulia
+    display_name: Giulia
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  karim:
+    name: Karim
+    display_name: Karim
     avatar: 'assets/images/avatar/empty.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
@@ -158,9 +214,33 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: ""
+  melissa:
+    name: Melissa
+    display_name: Melissa
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: ""
   nicolo:
     name: Nicolò
     display_name: Nicolò
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: ""
+  paolo:
+    name: Paolo
+    display_name: Paolo
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: ""
+  rebecca:
+    name: Rebecca
+    display_name: Rebecca
     avatar: 'assets/images/avatar/empty.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
@@ -174,9 +254,25 @@ authors:
     web: https://mapellispotted.github.io
     instagram: https://instagram.com/
     description: ""
+  roberto:
+    name: Roberto
+    display_name: Roberto
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: ""
   sara:
     name: Sara
     display_name: Sara
+    avatar: 'assets/images/avatar/empty.png'
+    email: redazione@mapelli-monza.edu.it
+    web: https://mapellispotted.github.io
+    instagram: https://instagram.com/
+    description: "-"
+  serena:
+    name: Serena
+    display_name: Serena
     avatar: 'assets/images/avatar/empty.png'
     email: redazione@mapelli-monza.edu.it
     web: https://mapellispotted.github.io
