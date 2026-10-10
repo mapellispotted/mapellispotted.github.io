@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intervista al prof. Dario Vilardi "
+title:  "Intervista al professor Dario Vilardi "
 description: ""
 author: roberto
 categories: [Scuola]
