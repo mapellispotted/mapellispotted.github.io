@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spider-Man: l'ultima uscita della saga, 'Brand new day' "
+title:  "La dematerializzazione nel mondo dei videogiochi"
 description: ""
 author: karim
 categories: [Tecnologia]
