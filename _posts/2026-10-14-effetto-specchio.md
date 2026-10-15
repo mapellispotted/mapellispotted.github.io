@@ -34,7 +34,7 @@ Oggi la questione della diversità nei film non è una semplice "moda del moment
 
 
 <div class="entry-featured-image">
-    <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{{ site.baseurl }}/assets/images/2026/10/spiecchio2.png" alt="">
+    <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{{ site.baseurl }}/assets/images/2026/10/specchio2.png" alt="">
 </div>
 
 **Da comparsa a protagonista**
