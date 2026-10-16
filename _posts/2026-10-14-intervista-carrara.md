@@ -15,5 +15,5 @@ image: assets/images/2026/10/pao1.png
 </a>
 </div>
 
-Clicca sull'immagine per aprire l'articolo!
+…continua cliccando sull’immagine qui sopra per aprire l’articolo completo!
 
