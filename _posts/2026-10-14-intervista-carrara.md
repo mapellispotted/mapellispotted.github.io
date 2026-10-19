@@ -2,7 +2,7 @@
 layout: post
 title:  "Il Mapelli si racconta: intervista a Paola Carrara"
 description: ""
-author: karim
+author: paolo
 categories: [Scuola]
 tags: [Persone]
 image: assets/images/2026/10/pao1.png
