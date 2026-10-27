@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il Mapelli si racconta: intervista a Michela Mucci"
+title:  "Il Mapelli si racconta: intervista alla Prof.ssa Michela Mucci"
 description: ""
 author: redazione
 categories: [Scuola]
