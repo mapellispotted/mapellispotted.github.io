@@ -7,7 +7,7 @@ categories: [Scuola]
 tags: [Persone]
 image: assets/images/2026/10/mapelli.png
 ---
-Oggi abbiamo avuto il piacere di intervistare la professoressa Stefania Agresta, docente di Economia aziendale dell’Istituto Mapelli. Attraverso le nostre domande abbiamo cercato di conoscere meglio il suo percorso, le esperienze che l’hanno segnata e il significato che attribuisce al suo ruolo di insegnante.
+Oggi abbiamo avuto il piacere di intervistare la professoressa Stefania Agresta, docente di *Economia aziendale* dell’Istituto Mapelli. Attraverso le nostre domande abbiamo cercato di conoscere meglio il suo percorso, le esperienze che l’hanno segnata e il significato che attribuisce al suo ruolo di insegnante.
 
 **1 - Perché ha scelto di intraprendere questo percorso?**
 
