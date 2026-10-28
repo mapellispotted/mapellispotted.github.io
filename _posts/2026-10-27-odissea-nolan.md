@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In arrivo al cinema: ”Hunger Games: l’alba sulla mietitura”"
+title:  "Un generale che vince la guerra e perde sé stesso"
 description: ""
 author: giulia
 categories: [Cultura]
