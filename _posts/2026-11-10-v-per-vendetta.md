@@ -7,9 +7,7 @@ categories: [Cinema]
 tags: [Film]
 image: assets/images/2026/11/v1.jpg
 ---
-La scorsa settimana ho visto per la prima volta V   per Vendetta. 
-
-L’omonimo film, tratto dal fumetto di Alan Moore  racconta di un mondo dispotico in Inghilterra. 
+La scorsa settimana ho visto per la prima volta V   per Vendetta.  L’omonimo film, tratto dal fumetto di Alan Moore  racconta di un mondo dispotico in Inghilterra. 
 
 La nazione inglese, sotto il dominio di un despota   che obbliga un regime autoritario, è costretta a  seguire regole rigidissime e coprifuochi proibitivi. 
 È proprio in occasione di un coprifuoco che la  protagonista, Evey Hammond, viene trovata da  due poliziotti. Questi ultimi, mentre provavano a  stuprare la ragazza, vengono fermati da V.  
