@@ -16,7 +16,3 @@ Attraverso le vicende dei protagonisti vengono affrontati temi importanti, come 
 La storia presenta anche una riflessione sul ruolo dell’educazione. Infatti, l’insegnamento di Keating dimostra come un professore possa influenzare profondamente i propri studenti, non solo trasmettendo insegnamenti, ma anche incoraggiandoli a sviluppare la propria voce.
 
 Nel complesso, *L’Attimo fuggente* è un film che pur essendo ambientato in un contesto scolastico degli anni Cinquanta, affronta questioni ancora attuali. Il rapporto tra giovani e adulti, la pressione delle aspettative, la ricerca della propria identità e la necessità di scegliere in autonomia il proprio percorso sono temi tuttora importanti. 
-
-<br />
-<br />
-Melissa e Emily

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il peso delle aspettative"
+title:  "Londra: 5 luoghi inediti tutti da scoprire"
 description: ""
 author: redazione
 categories: [Società]
@@ -22,6 +22,3 @@ Vediamo spesso persone che sembrano avere una vita perfetta e iniziamo a confron
 In realtà sbagliare è normale e non possiamo né dobbiamo piacere per forza a tutti. Ognuno è diverso dagli altri, abbiamo tutti tempi e capacità diverse, e questo non rende qualcuno meno importante di qualcun’ altro. E’ giusto voler impegnarsi per migliorare, ma senza dimenticare che la cosa che conta di più è stare bene con noi stessi.
 
 In fondo non dobbiamo dimostrare continuamente qualcosa agli altri. La vita è fatta di alti e bassi, e a volte la cosa più importante è imparare ad accettarci per quello che siamo, senza avere paura di non essere perfetti. Perché il nostro valore non dipende da ciò che gli altri si aspettano da noi, ma da ciò che siamo davvero.
-
-
-Melissa ed Emily

@@ -20,6 +20,3 @@ Leggere permette anche di conoscere meglio il mondo e le persone. Attraverso rom
 
 Infine, non bisogna dimenticare che la lettura può essere anche una fonte di divertimento e svago. Non esistono soltanto libri impegnativi o testi scolastici, ma esistono diversi romanzi che offrono numerose possibilità adatte ad interessi diversi. L’importante è riuscire a trovare una lettura che susciti interesse e piacere in chi legge senza considerarla un obbligo.
 
-<br />
-<br />
-Melissa ed Emily
