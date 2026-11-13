@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "L'importanza delle tradizioni"
+title:  "L'importanza delle tradizioni, parte della nostra vita e della nostra cultura"
 description: ""
 author: redazione
 categories: [Società]
