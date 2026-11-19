@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La fast fashion - scopriamo cos'è"
+title:  "La fast fashion - scopriamo cos'è la *moda veloce*"
 description: ""
 author: redazione
 categories: [Attualità]
