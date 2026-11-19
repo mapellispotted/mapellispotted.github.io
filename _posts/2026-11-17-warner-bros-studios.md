@@ -2,7 +2,7 @@
 layout: post
 title:  "I Warner Bros Studio di Londra"
 description: ""
-author: redazione
+author: giulia
 categories: [Viaggi]
 tags: [Cinema]
 image: assets/images/2026/11/warner.png
