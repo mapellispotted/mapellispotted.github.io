@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I Warner Bros Studio di Londra"
+title:  "Ecco i Warner Bros Studios di Londra!"
 description: ""
 author: giulia
 categories: [Viaggi]
