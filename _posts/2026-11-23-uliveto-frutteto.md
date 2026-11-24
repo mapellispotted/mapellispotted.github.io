@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La fast fashion - scopriamo cos'è"
+title:  "Differenze di gestione tra un uliveto e un frutteto"
 description: ""
 author: simone
 categories: [Tecnica]
